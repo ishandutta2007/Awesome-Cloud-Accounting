@@ -1,41 +1,24 @@
-# Awesome-Cloud-Accounting
-
 # Awesome-Cloud-Accounting 💰 ☁️
 
-
-
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome Cloud Accounting Banner" width="100%">
-
 </p>
-
 
 
 <p align="center">
-
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Accounting"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Accounting?style=social" alt="GitHub_Stars"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Accounting/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Accounting?style=social" alt="GitHub Forks"/></a>
-
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Accounting/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Accounting?color=blue" alt="License"/></a>
-
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
 </p>
-
 
 
 ---
 
 
-
 ## 🌟 Top Cloud Accounting Ecosystem
-
 
 
 **Curated List of Commercial Accounting Platforms & Open-Source Bookkeeping Frameworks**  
@@ -43,13 +26,10 @@
 *Focused on Cloud Bookkeeping, Invoicing, Expense Tracking, Bank Reconciliation, Financial Reporting & Self-Hosted Accounting Suites*
 
 
-
 **Last updated: October 2026** 📅
 
 
-
 ---
-
 
 
 ### 📌 Overview & SEO Summary
@@ -65,33 +45,23 @@ Welcome to the definitive directory of **cloud accounting platforms**, **open-so
 - **Ecosystem Scale:** **ERPNext** leads open-source ERPs with over **40,000 GitHub_Stars**, **Firefly III** provides personal and small-business financial management with **24,800+ stars**, and **Invoice Ninja** and **Akaunting** offer self-hosted web platforms trusted by hundreds of thousands of active businesses.
 
 
-
 ---
-
 
 
 ## 📑 Table of Contents
 
 - [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
-
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
 - [📊 Star History](#-star-history)
-
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
-
 
 
 ---
 
 
-
 ## 🏢 SaaS / Commercial Platforms
-
 
 
 The global accounting software market is valued at approximately **$22.5B–$25B** (projected to reach over $45B by the mid-2030s at an 8–10% CAGR) and remains **moderately fragmented** — anchored by dominant global ERP/SMB leaders like Oracle, Salesforce, Intuit, and Sage, while leaving considerable room for specialized cloud vendors and niche SME tools.
@@ -110,13 +80,10 @@ The global accounting software market is valued at approximately **$22.5B–$25B
 | **[Kashoo](https://kashoo.com/)** 🍁 | DataTax / Kashoo | ~$5 Million (Est.) | **$30/month ($216/year)** | **14-day free trial** (Full access to all features; paid plan supports unlimited users and unlimited invoicing) | **Simplified bookkeeping for non-accountants** — Smart inbox automation, OCR receipt matching, and basic sales tax tracking without complex accounting jargon. |
 
 
-
 ---
 
 
-
 ## 🔓 Open-Source GitHub Projects
-
 
 
 *Curated self-hosted bookkeeping engines, plain-text accounting systems, invoicing tools, and double-entry ERP platforms. Sorted by GitHub_Stars_Count (descending).* 🌟
@@ -189,20 +156,12 @@ The global accounting software market is valued at approximately **$22.5B–$25B
 
 ## 🛠️ How to Contribute
 
-
-
 Contributions are welcome! Follow these steps to submit new cloud accounting platforms or open-source bookkeeping software:
 
-
-
 1. 🍴 **Fork** the repository.
-
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
 3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
-
 
 
 ---
@@ -236,13 +195,9 @@ If you find this repository valuable for your business, development, or accounti
 
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
 - **QuickBooks Online and Xero remain the dominant commercial platforms** — QuickBooks is the most widely used among accountants due to its feature set and collaboration capabilities . **Zoho Books offers the lowest entry price** with a free tier and Standard at $20/month .
-
 - **Open-source accounting software eliminates subscription fees** but requires **technical expertise to deploy, back up, and maintain** . **GnuCash is desktop-only** — no multi-user web access . **Akaunting and Bigcapital require server setup** .
-
 - **ERPNext provides the most complete open-source ERP** with **39,642 GitHub_Stars**, but **requires significant configuration** for accounting-specific workflows .
-
 - **Always validate double-entry integrity, tax calculations, and financial reporting accuracy with a proof-of-concept** before production deployment. 📒
 
 
@@ -252,7 +207,5 @@ If you find this repository valuable for your business, development, or accounti
 
 
 <p align="center">
-
   <b>Made with ❤️ for accountants, small business owners, and open-source accounting advocates.</b>
-
 </p>
