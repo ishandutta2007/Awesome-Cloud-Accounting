@@ -62,7 +62,7 @@ Welcome to the definitive directory of **cloud accounting platforms**, **open-so
 - **Accessible Freemium Tiers:** **Zoho Books** and **Wave** deliver dedicated free tiers for freelancers, solopreneurs, and micro-businesses under specified revenue/usage caps.
 - **Enterprise & Mid-Market Scale:** **Oracle NetSuite** and **Sage Intacct** power complex multi-entity consolidation, ASC 606 revenue recognition, and dimensional general ledger accounting.
 - **Sovereign & Self-Hosted Accounting:** Self-hosted open-source solutions eliminate recurring SaaS fees, unlock full SQL audit trails, and guarantee financial data sovereignty for privacy-focused businesses.
-- **Ecosystem Scale:** **ERPNext** leads open-source ERPs with over **40,000 GitHub stars**, **Firefly III** provides personal and small-business financial management with **24,800+ stars**, and **Invoice Ninja** and **Akaunting** offer self-hosted web platforms trusted by hundreds of thousands of active businesses.
+- **Ecosystem Scale:** **ERPNext** leads open-source ERPs with over **40,000 GitHub_Stars**, **Firefly III** provides personal and small-business financial management with **24,800+ stars**, and **Invoice Ninja** and **Akaunting** offer self-hosted web platforms trusted by hundreds of thousands of active businesses.
 
 
 
@@ -119,64 +119,64 @@ The global accounting software market is valued at approximately **$22.5B–$25B
 
 
 
-*Curated self-hosted bookkeeping engines, plain-text accounting systems, invoicing tools, and double-entry ERP platforms. Sorted by GitHub stars count (descending).* 🌟
+*Curated self-hosted bookkeeping engines, plain-text accounting systems, invoicing tools, and double-entry ERP platforms. Sorted by GitHub_Stars_Count (descending).* 🌟
 
 - **[ERPNext](https://github.com/frappe/erpnext)** [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
-  **Enterprise-grade open-source ERP with full double-entry accounting**, GPL-3.0 licensed. **40,000+ GitHub stars** — the premier open-source ERP suite. Complete multi-currency general ledger, automated bank reconciliation, tax rules, cost centers, asset management, and financial statement reporting. 🏢
+  **Enterprise-grade open-source ERP with full double-entry accounting**, GPL-3.0 licensed. **40,000+ GitHub_Stars** — the premier open-source ERP suite. Complete multi-currency general ledger, automated bank reconciliation, tax rules, cost centers, asset management, and financial statement reporting. 🏢
 
 - **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
-  **Self-hosted double-entry financial manager**, AGPL-3.0 licensed. **24,800+ GitHub stars**. Provides automated transaction importing, budget management, rule-based categorization, multi-currency tracking, and detailed cash-flow analytics. 💰
+  **Self-hosted double-entry financial manager**, AGPL-3.0 licensed. **24,800+ GitHub_Stars**. Provides automated transaction importing, budget management, rule-based categorization, multi-currency tracking, and detailed cash-flow analytics. 💰
 
 - **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
-  **Self-hosted invoicing, quotes, and payment platform**, Elastic-2.0 licensed. **10,200+ GitHub stars**. Leading open-source billing engine built on Laravel and Flutter; supports client portals, recurring billing, automated payment gateway integration, and expense tracking. 🧾
+  **Self-hosted invoicing, quotes, and payment platform**, Elastic-2.0 licensed. **10,200+ GitHub_Stars**. Leading open-source billing engine built on Laravel and Flutter; supports client portals, recurring billing, automated payment gateway integration, and expense tracking. 🧾
 
 - **[Akaunting](https://github.com/akaunting/akaunting)** [![Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
-  **Modern web-based small business accounting**, AGPL-3.0 licensed. **10,100+ GitHub stars** — deployed by over 300,000 small businesses. Self-hosted modular platform covering invoicing, bill payments, bank feeds, currency conversion, and financial health reporting. 🌐
+  **Modern web-based small business accounting**, AGPL-3.0 licensed. **10,100+ GitHub_Stars** — deployed by over 300,000 small businesses. Self-hosted modular platform covering invoicing, bill payments, bank feeds, currency conversion, and financial health reporting. 🌐
 
 - **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** [![Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)  
-  **Open enterprise management platform (ERP/CRM/HRM/PM)**, AGPL-3.0 licensed. **8,300+ GitHub stars**. Modular TypeScript/Node.js enterprise platform offering integrated bookkeeping, multi-organization invoicing, financial analytics, and payroll tracking. 🏢
+  **Open enterprise management platform (ERP/CRM/HRM/PM)**, AGPL-3.0 licensed. **8,300+ GitHub_Stars**. Modular TypeScript/Node.js enterprise platform offering integrated bookkeeping, multi-organization invoicing, financial analytics, and payroll tracking. 🏢
 
 - **[Beancount](https://github.com/beancount/beancount)** [![Stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)  
-  **Double-entry accounting from plain text files**, GPL-2.0 licensed. **6,000+ GitHub stars**. Command-line and text-based double-entry ledger ecosystem written in Python, featuring extensible query syntax, Fava web UI integration, and rigorous balance verification. 📝
+  **Double-entry accounting from plain text files**, GPL-2.0 licensed. **6,000+ GitHub_Stars**. Command-line and text-based double-entry ledger ecosystem written in Python, featuring extensible query syntax, Fava web UI integration, and rigorous balance verification. 📝
 
 - **[Ledger](https://github.com/ledger/ledger)** [![Stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)  
-  **The benchmark plain-text double-entry accounting system**, BSD-3-Clause licensed. **6,000+ GitHub stars**. High-performance C++ command-line tool that revolutionized command-line accounting with flexible ledger formatting, multicurrency support, and robust reporting. 💻
+  **The benchmark plain-text double-entry accounting system**, BSD-3-Clause licensed. **6,000+ GitHub_Stars**. High-performance C++ command-line tool that revolutionized command-line accounting with flexible ledger formatting, multicurrency support, and robust reporting. 💻
 
 - **[ezBookkeeping](https://github.com/mayswind/ezbookkeeping)** [![Stars](https://img.shields.io/github/stars/mayswind/ezbookkeeping?style=social&color=white)](https://github.com/mayswind/ezbookkeeping/stargazers)  
-  **Lightweight self-hosted personal & business bookkeeping application**, MIT licensed. **5,700+ GitHub stars**. Clean Go + Vue-based bookkeeping web app with multi-account support, multi-currency transactions, receipt management, and containerized Docker deployment. 📱
+  **Lightweight self-hosted personal & business bookkeeping application**, MIT licensed. **5,700+ GitHub_Stars**. Clean Go + Vue-based bookkeeping web app with multi-account support, multi-currency transactions, receipt management, and containerized Docker deployment. 📱
 
 - **[GnuCash](https://github.com/Gnucash/gnucash)** [![Stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)  
-  **Veteran free double-entry bookkeeping software**, GPL-2.0 licensed. **4,300+ GitHub stars**. The longest-running open-source double-entry system; supports bank reconciliation, checkbook registers, investment portfolio tracking, OFX/QIF bank imports, and scheduled transactions across desktop OSes. 📒
+  **Veteran free double-entry bookkeeping software**, GPL-2.0 licensed. **4,300+ GitHub_Stars**. The longest-running open-source double-entry system; supports bank reconciliation, checkbook registers, investment portfolio tracking, OFX/QIF bank imports, and scheduled transactions across desktop OSes. 📒
 
 - **[Bigcapital](https://github.com/bigcapitalhq/bigcapital)** [![Stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white)](https://github.com/bigcapitalhq/bigcapital/stargazers)  
-  **Open-source financial reporting & bookkeeping platform**, AGPL-3.0 licensed. **3,900+ GitHub stars**. Direct modern open-source alternative to QuickBooks and Wave. Includes Dockerized headless double-entry APIs, real-time balance sheets, automated reconciliations, and invoicing. 💵
+  **Open-source financial reporting & bookkeeping platform**, AGPL-3.0 licensed. **3,900+ GitHub_Stars**. Direct modern open-source alternative to QuickBooks and Wave. Includes Dockerized headless double-entry APIs, real-time balance sheets, automated reconciliations, and invoicing. 💵
 
 - **[metasfresh](https://github.com/metasfresh/metasfresh)** [![Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
-  **Scalable open-source ERP for growing enterprises**, GPL-2.0 licensed. **2,400+ GitHub stars**. Enterprise Java and PostgreSQL-based architecture providing double-entry general ledger, automated procurement, invoicing, and order management. 📊
+  **Scalable open-source ERP for growing enterprises**, GPL-2.0 licensed. **2,400+ GitHub_Stars**. Enterprise Java and PostgreSQL-based architecture providing double-entry general ledger, automated procurement, invoicing, and order management. 📊
 
 - **[Accountill](https://github.com/panshak/accountill)** [![Stars](https://img.shields.io/github/stars/panshak/accountill?style=social&color=white)](https://github.com/panshak/accountill/stargazers)  
-  **Full-stack MERN invoicing & bookkeeping app**, MIT licensed. **1,600+ GitHub stars**. Built with MongoDB, Express, React, and Node.js. Provides customer account tracking, payment statuses, PDF invoice dispatch, and income statements. 📄
+  **Full-stack MERN invoicing & bookkeeping app**, MIT licensed. **1,600+ GitHub_Stars**. Built with MongoDB, Express, React, and Node.js. Provides customer account tracking, payment statuses, PDF invoice dispatch, and income statements. 📄
 
 - **[erpsaas](https://github.com/andrewdwallo/erpsaas)** [![Stars](https://img.shields.io/github/stars/andrewdwallo/erpsaas?style=social&color=white)](https://github.com/andrewdwallo/erpsaas/stargazers)  
-  **Laravel & Filament open-source accounting suite**, MIT licensed. **1,400+ GitHub stars**. Modern multi-tenant bookkeeping engine featuring customizable chart of accounts, tax reporting, automated invoicing, and clean administrative UI. 🎨
+  **Laravel & Filament open-source accounting suite**, MIT licensed. **1,400+ GitHub_Stars**. Modern multi-tenant bookkeeping engine featuring customizable chart of accounts, tax reporting, automated invoicing, and clean administrative UI. 🎨
 
 - **[django-ledger](https://github.com/arrobalytics/django-ledger)** [![Stars](https://img.shields.io/github/stars/arrobalytics/django-ledger?style=social&color=white)](https://github.com/arrobalytics/django-ledger/stargazers)  
-  **Python Django double-entry financial analysis engine**, MIT licensed. **1,300+ GitHub stars**. Pluggable Django framework powering custom financial applications with automated balance sheets, income statements, and cash-flow ledgers. 🐍
+  **Python Django double-entry financial analysis engine**, MIT licensed. **1,300+ GitHub_Stars**. Pluggable Django framework powering custom financial applications with automated balance sheets, income statements, and cash-flow ledgers. 🐍
 
 - **[OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer)** [![Stars](https://img.shields.io/github/stars/TheAxelander/OpenBudgeteer?style=social&color=white)](https://github.com/TheAxelander/OpenBudgeteer/stargazers)  
-  **Bucket budgeting & expense tracking engine**, MIT licensed. **900+ GitHub stars**. Modern C# Blazor-based financial management software utilizing envelope and bucket budgeting principles. 💰
+  **Bucket budgeting & expense tracking engine**, MIT licensed. **900+ GitHub_Stars**. Modern C# Blazor-based financial management software utilizing envelope and bucket budgeting principles. 💰
 
 - **[Plutus](https://github.com/mbulat/plutus)** [![Stars](https://img.shields.io/github/stars/mbulat/plutus?style=social&color=white)](https://github.com/mbulat/plutus/stargazers)  
-  **Ruby on Rails double-entry accounting engine**, MIT licensed. **700+ GitHub stars**. Pluggable Rails engine adding full double-entry accounting structures, debits, credits, and trial balance validation to web applications. 💎
+  **Ruby on Rails double-entry accounting engine**, MIT licensed. **700+ GitHub_Stars**. Pluggable Rails engine adding full double-entry accounting structures, debits, credits, and trial balance validation to web applications. 💎
 
 - **[LedgerSMB](https://github.com/ledgersmb/LedgerSMB)** [![Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)  
-  **Open-source double-entry web accounting & ERP**, GPL-2.0 licensed. **500+ GitHub stars**. Robust web-based general ledger, inventory management, quotation, order tracking, and multi-currency accounting built on Perl and PostgreSQL. 🌐
+  **Open-source double-entry web accounting & ERP**, GPL-2.0 licensed. **500+ GitHub_Stars**. Robust web-based general ledger, inventory management, quotation, order tracking, and multi-currency accounting built on Perl and PostgreSQL. 🌐
 
 - **[Midaz](https://github.com/LerianStudio/midaz)** [![Stars](https://img.shields.io/github/stars/LerianStudio/midaz?style=social&color=white)](https://github.com/LerianStudio/midaz/stargazers)  
-  **Cloud-native multi-asset double-entry ledger platform**, Apache-2.0 licensed. **450+ GitHub stars**. High-throughput financial ledger engine for fintechs, banking rails, multi-currency transaction sequencing, and modern digital asset balances. ⚡
+  **Cloud-native multi-asset double-entry ledger platform**, Apache-2.0 licensed. **450+ GitHub_Stars**. High-throughput financial ledger engine for fintechs, banking rails, multi-currency transaction sequencing, and modern digital asset balances. ⚡
 
 - **[Grisbi](https://github.com/Grisbi/grisbi)** [![Stars](https://img.shields.io/github/stars/Grisbi/grisbi?style=social&color=white)](https://github.com/Grisbi/grisbi/stargazers)  
-  **Lightweight desktop accounting software**, GPL-2.0 licensed. **160+ GitHub stars**. Long-running European financial management software offering multi-currency accounts, direct budgetary lines, and financial reports. 🍷
+  **Lightweight desktop accounting software**, GPL-2.0 licensed. **160+ GitHub_Stars**. Long-running European financial management software offering multi-currency accounts, direct budgetary lines, and financial reports. 🍷
 
 - **[Bizuno](https://github.com/phreesoft/bizuno)** [![Stars](https://img.shields.io/github/stars/phreesoft/bizuno?style=social&color=white)](https://github.com/phreesoft/bizuno/stargazers)  
   **Self-hosted double-entry ERP/accounting for WordPress**, GPL-2.0 licensed. PhreeBooks successor providing double-entry general ledger, shipping carrier integrations, banking reconciliation, and multi-warehouse stock management. 📦
@@ -241,7 +241,7 @@ If you find this repository valuable for your business, development, or accounti
 
 - **Open-source accounting software eliminates subscription fees** but requires **technical expertise to deploy, back up, and maintain** . **GnuCash is desktop-only** — no multi-user web access . **Akaunting and Bigcapital require server setup** .
 
-- **ERPNext provides the most complete open-source ERP** with **39,642 GitHub stars**, but **requires significant configuration** for accounting-specific workflows .
+- **ERPNext provides the most complete open-source ERP** with **39,642 GitHub_Stars**, but **requires significant configuration** for accounting-specific workflows .
 
 - **Always validate double-entry integrity, tax calculations, and financial reporting accuracy with a proof-of-concept** before production deployment. 📒
 
