@@ -209,31 +209,21 @@ Contributions are welcome! Follow these steps to submit new cloud accounting pla
 
 
 
-## 📊 Star History
-
-
+##  Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Cloud-Accounting&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Cloud-Accounting&type=date&legend=top-left)
 
-
-
 ---
-
-
 
 ## 🤝 Support & Sponsorship
 
+Thank you so much for exploring and using **Awesome-Cloud-Accounting**! Your support keeps this ecosystem alive, accurate, and continually updated with the best modern financial tooling.
 
+If you find this repository valuable for your business, development, or accounting workflow, please consider supporting the project:
 
-If you find this cloud accounting repository useful, please consider supporting the project:
-
-
-
-- ⭐ **Star** this repository to increase visibility!
-
-- 🔀 **Fork** and share with fellow accountants, small business owners, and open-source advocates.
-
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star** this repository to help others discover it and increase visibility!
+- 🔀 **Fork** and share it with fellow accountants, developers, small business owners, and open-source advocates.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing curation and research by visiting the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every bit of support is deeply appreciated!
 
 
 
