@@ -54,27 +54,15 @@
 
 ### 📌 Overview & SEO Summary
 
-Welcome to the ultimate curated directory of **cloud accounting platforms**, **open-source bookkeeping software**, and **financial management frameworks**. Whether you are looking for enterprise-grade commercial solutions (such as *QuickBooks Online*, *Xero*, and *Sage Intacct*), or self-hostable open-source alternatives (like *Akaunting*, *GnuCash*, and *Bigcapital*), this list covers category leaders, double-entry accounting, and privacy-respecting financial infrastructure.
+Welcome to the definitive directory of **cloud accounting platforms**, **open-source bookkeeping software**, **self-hosted double-entry general ledgers**, and **fintech billing frameworks**. Whether you are evaluating enterprise cloud ERP and commercial solutions (such as *Oracle NetSuite*, *QuickBooks Online*, *Xero*, and *Sage Intacct*) or self-hostable privacy-first open-source accounting platforms (such as *ERPNext*, *Firefly III*, *Invoice Ninja*, *Akaunting*, *GnuCash*, and *Bigcapital*), this curated guide covers category leaders, double-entry bookkeeping engines, automated bank feed reconciliations, and tax compliance infrastructure.
 
+**Key Market & Search Insights:**
 
-
-**Key Market Context:**
-
-- **QuickBooks Online and Xero** dominate small business cloud accounting, with **Zoho Books offering the lowest entry price** among major alternatives due to its free tier .
-
-- **Open-source accounting software eliminates subscription fees** and gives businesses full control over where financial data lives — a growing priority for privacy-conscious organizations .
-
-- **Akaunting** is one of the most popular open-source accounting apps for small businesses, used by **over 300,000 businesses** and translated into more than 50 languages .
-
-- **GnuCash** remains the longest-running name in free accounting software, still actively developed with **GnuCash 5.16** as the current stable release .
-
-- **Bigcapital** provides intelligent reporting as an open-source alternative to QuickBooks, Xero, and Wave, with self-hosted Docker deployment and headless accounting APIs .
-
-- **Ever Gauzy** is an open business management platform (ERP/CRM/HRM) with **2,554 GitHub stars**, offering accounting modules within a broader enterprise suite .
-
-- **Django Ledger** is a double-entry accounting system built on Django with **1,109 GitHub stars**, providing a solid foundation for custom accounting applications .
-
-- **ERPNext** dominates open-source ERP with **39,642 GitHub stars**, offering comprehensive accounting, inventory, HR, and CRM modules .
+- **Dominant SMB Cloud Platforms:** **QuickBooks Online** and **Xero** lead global small-to-medium business accounting and bookkeeping automation.
+- **Accessible Freemium Tiers:** **Zoho Books** and **Wave** deliver dedicated free tiers for freelancers, solopreneurs, and micro-businesses under specified revenue/usage caps.
+- **Enterprise & Mid-Market Scale:** **Oracle NetSuite** and **Sage Intacct** power complex multi-entity consolidation, ASC 606 revenue recognition, and dimensional general ledger accounting.
+- **Sovereign & Self-Hosted Accounting:** Self-hosted open-source solutions eliminate recurring SaaS fees, unlock full SQL audit trails, and guarantee financial data sovereignty for privacy-focused businesses.
+- **Ecosystem Scale:** **ERPNext** leads open-source ERPs with over **40,000 GitHub stars**, **Firefly III** provides personal and small-business financial management with **24,800+ stars**, and **Invoice Ninja** and **Akaunting** offer self-hosted web platforms trusted by hundreds of thousands of active businesses.
 
 
 
@@ -106,33 +94,20 @@ Welcome to the ultimate curated directory of **cloud accounting platforms**, **o
 
 
 
-The cloud accounting market spans **SMB-focused platforms** (QuickBooks Online, Xero, FreshBooks) that provide **invoicing, expense tracking, and bank reconciliation**, **mid-market suites** (Sage Intacct, NetSuite) that offer **multi-entity consolidation and revenue recognition**, and **freemium tools** (Wave, Zoho Books) that **lower barriers to entry for freelancers and micro-businesses**. **QuickBooks Online** is the most widely used accounting software among accountants . **Zoho Books** offers the **lowest entry price** with a free tier and Standard at $20/month . **Sage Intacct** deployments typically range from **$9,000–$35,000/year** with implementation adding $10,000–$30,000 .
-
-
+The global accounting software market is valued at approximately **$22.5B–$25B** (projected to reach over $45B by the mid-2030s at an 8–10% CAGR) and remains **moderately fragmented** — anchored by dominant global ERP/SMB leaders like Oracle, Salesforce, Intuit, and Sage, while leaving considerable room for specialized cloud vendors and niche SME tools.
 
 | SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
-
 | :--- | :--- | :--- | :--- | :--- | :--- |
-
-| **[Salesforce Accounting](https://www.salesforce.com/)** ☁️ | Salesforce | ~$250 Billion | **Included with Accounting Subledger** | **Free with Salesforce subscription** | **CRM-native accounting subledger** — **Captures foreign exchange gains/losses, balances general ledger accounts, and defines journal entry rules** . **Accounting Sets map source objects to transaction journals** . **Requires Data Pipelines and proper permission sets** . |
-
-| **[QuickBooks Online](https://quickbooks.intuit.com/)** 🟢 | Intuit | ~$200 Billion | **$30–$275/month** (Simple Start to Advanced)  | **30-day free trial**; no permanent free tier | **Most widely adopted accounting software** — **Bank feeds, automated categorization, invoicing, payroll, and inventory tracking** . **Free accountant access included**. **Best for growing small businesses** . |
-
-| **[Xero](https://www.xero.com/)** 🔵 | Xero | ~$15 Billion | **$25–$90/month** (Early to Established)  | **30-day free trial** | **Integration-first cloud accounting** — **Unlimited users on all plans** . **Clean interface with 1,000+ app integrations**. **Best for businesses relying on automation** . |
-
-| **[FreshBooks](https://www.freshbooks.com/)** 🟠 | FreshBooks | Private | **$23–$70/month** (Lite to Premium)  | **30-day free trial** | **Invoicing-focused accounting** — **Best for freelancers and service businesses** . **Time tracking, proposals, and client portal**. **Additional users cost $11/user/month** . |
-
-| **[Sage Intacct](https://www.sageintacct.com/)** 🟣 | Sage Group | ~$10 Billion | **$9,000–$35,000/year** (estimated)  | **30-day product test drive**  | **Mid-market financial management** — **AI-powered general ledger, multi-entity consolidation, and ASC 606 revenue recognition** . **Best for scaling nonprofits and multi-entity businesses** . |
-
-| **[NetSuite](https://www.netsuite.com/)** 🔴 | Oracle | ~$300 Billion | **~$999/month base + $99–$200/user/month**  | **Free product tour**; no free trial | **Full ERP with accounting** — **Multi-entity consolidation, inventory, CRM, and supply chain** . **Best for enterprises with complex operations** . |
-
-| **[Zoho Books](https://www.zoho.com/books/)** 🟡 | Zoho Corporation | Private | **Standard: $20/month** (3 users)  | **Free: 1 user, unlimited invoices**  | **Best value cloud accounting** — **Lowest entry price among major alternatives** . **Includes accounts payable, projects, inventory, and reports on lower-priced plans** . |
-
-| **[Wave](https://www.waveapps.com/)** 🌊 | H&R Block | Private | **Starter: Free**; **Pro: $16/month**  | **Free forever** for Starter | **Free browser-based accounting** — **Best for freelancers and micro-businesses** . **Mobile receipts and payroll available as add-ons**. **Advisor services from $149/month** . |
-
-| **[Kashoo](https://kashoo.com/)** 🍁 | Kashoo | Private | **$20–$30/month**  | **14-day free trial** | **Simple cloud accounting** — **Designed for non-accountants**. **Unlimited users on all plans**. |
-
-| **[Accounting Seed](https://www.accountingseed.com/)** 🌱 | Accounting Seed | Private | **Custom pricing** (Salesforce-native) | **Demo available** | **Salesforce-native accounting** — **Built entirely on Salesforce platform**. **Real-time financials without integration**. |
+| **[NetSuite](https://www.netsuite.com/)** 🔴 | Oracle | ~$300 Billion | **$999/month base + $99/user/month** | **No free trial** (Guided product tour & interactive demo only; minimum 10-user deployment) | **Full cloud ERP with core accounting** — Multi-entity consolidation, revenue recognition, inventory, CRM, and global tax compliance. Built for scaling mid-market and enterprise businesses. |
+| **[Salesforce Accounting Subledger](https://www.salesforce.com/)** ☁️ | Salesforce | ~$250 Billion | **$165/user/month** (Enterprise CRM base required) | **30-day free trial** (Salesforce Enterprise trial with standard CRM limits and sample accounting data) | **CRM-native accounting subledger** — Prepares and summarizes transactional data for posting to any external ERP or general ledger; manages debit/credit balancing and financial schedules. |
+| **[QuickBooks Online](https://quickbooks.intuit.com/)** 🟢 | Intuit | ~$200 Billion | **$38/month** (Simple Start plan) | **30-day free trial** (Full Simple Start tier features; limits to 1 billable user + 2 accounting seats) | **Most widely adopted SMB accounting software** — Bank feeds, automated categorization, receipt capture, invoicing, payroll add-on, and inventory tracking with native CPA collaboration. |
+| **[Xero](https://www.xero.com/)** 🔵 | Xero | ~$15 Billion | **$25/month** (Early plan) | **30-day free trial** (Full feature access during trial; standard Early plan limits capped at 20 invoices and 5 bills/month) | **Integration-first cloud bookkeeping** — Beautiful interface, unlimited users on standard tiers, automated bank feeds via 1,000+ app marketplace connections, and Hubdoc document capture. |
+| **[Zoho Books](https://www.zoho.com/books/)** 🟡 | Zoho Corporation | ~$12.5 Billion (Est.) | **$20/month** (Standard plan, 3 users) | **Free forever plan** (Strictly limited to 1 user + 1 accountant, up to 1,000 invoices/year, and businesses with annual revenue under $50,000) | **Best-value cloud accounting** — Robust invoicing, expense tracking, multi-currency support, customer portal, and automatic payment reminders at an accessible price point. |
+| **[Sage Intacct](https://www.sageintacct.com/)** 🟣 | Sage Group | ~$10 Billion | **$9,000/year (~$750/month)** | **30-day product test drive** (Pre-configured sandbox environment with sample general ledger and reporting data) | **Mid-market financial management** — AICPA-preferred cloud financial management software featuring multi-entity consolidation, dimensional charts of accounts, and ASC 606 revenue automation. |
+| **[Wave](https://www.waveapps.com/)** 🌊 | H&R Block | ~$5.2 Billion | **$16/month ($170/year)** (Pro plan) | **Free forever plan** (Starter tier: limited to 1 user seat, manual bank transaction imports only, manual receipt records, standard transaction fees) | **Browser-based accounting for micro-businesses** — Simple double-entry ledger, invoicing, and expense tracking tailored to freelancers, sole proprietors, and consultants. |
+| **[FreshBooks](https://www.freshbooks.com/)** 🟠 | FreshBooks | ~$1.2 Billion | **$23/month** (Lite plan) | **30-day free trial** (Full platform functionality; Lite tier standard limits capped at 5 billable clients and 1 user seat) | **Invoicing-first bookkeeping suite** — Designed for freelancers and service agencies; features time tracking, mileage logging, project estimates, and client portal proposals. |
+| **[Accounting Seed](https://www.accountingseed.com/)** 🌱 | Accounting Seed (H.I.G. Capital) | ~$100 Million (Est.) | **$250/month ($3,000/year starting)** | **No free trial** (1-on-1 personalized live demonstration and sandbox pilot with Salesforce architect) | **Salesforce-native accounting software** — Connects core sales pipelines with double-entry general ledger, subscription billing, and project accounting without external connectors. |
+| **[Kashoo](https://kashoo.com/)** 🍁 | DataTax / Kashoo | ~$5 Million (Est.) | **$30/month ($216/year)** | **14-day free trial** (Full access to all features; paid plan supports unlimited users and unlimited invoicing) | **Simplified bookkeeping for non-accountants** — Smart inbox automation, OCR receipt matching, and basic sales tax tracking without complex accounting jargon. |
 
 
 
@@ -144,85 +119,67 @@ The cloud accounting market spans **SMB-focused platforms** (QuickBooks Online, 
 
 
 
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
-
-
+*Curated self-hosted bookkeeping engines, plain-text accounting systems, invoicing tools, and double-entry ERP platforms. Sorted by GitHub stars count (descending).* 🌟
 
 - **[ERPNext](https://github.com/frappe/erpnext)** [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+  **Enterprise-grade open-source ERP with full double-entry accounting**, GPL-3.0 licensed. **40,000+ GitHub stars** — the premier open-source ERP suite. Complete multi-currency general ledger, automated bank reconciliation, tax rules, cost centers, asset management, and financial statement reporting. 🏢
 
-  **Comprehensive open-source ERP with full accounting**, GPL-3.0 licensed. **39,642 GitHub stars** — **the most widely deployed open-source ERP** . **Modules for accounting, inventory, HR, CRM, manufacturing, and more** . **Double-entry accounting with multi-currency, cost centers, and financial reporting** . **Customizable and scalable for businesses of all sizes** . 🏢
+- **[Firefly III](https://github.com/firefly-iii/firefly-iii)** [![Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers)  
+  **Self-hosted double-entry financial manager**, AGPL-3.0 licensed. **24,800+ GitHub stars**. Provides automated transaction importing, budget management, rule-based categorization, multi-currency tracking, and detailed cash-flow analytics. 💰
 
-
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+  **Self-hosted invoicing, quotes, and payment platform**, Elastic-2.0 licensed. **10,200+ GitHub stars**. Leading open-source billing engine built on Laravel and Flutter; supports client portals, recurring billing, automated payment gateway integration, and expense tracking. 🧾
 
 - **[Akaunting](https://github.com/akaunting/akaunting)** [![Stars](https://img.shields.io/github/stars/akaunting/akaunting?style=social&color=white)](https://github.com/akaunting/akaunting/stargazers)  
-
-  **Modern, self-hosted, web-based accounting**, AGPL-3.0 licensed. **10,151 GitHub stars** — **used by over 300,000 businesses** . **Runs in a web browser** — hosted or self-installed on your own server . **Invoicing, expense tracking, transaction categories, cash flow reporting, and client portal** . **Translated into 50+ languages** . **The strongest open-source alternative to FreshBooks** . 🌐
-
-
-
-- **[Bigcapital](https://github.com/bigcapitalhq/bigcapital)** [![Stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white)](https://github.com/bigcapitalhq/bigcapital/stargazers)  
-
-  **Open-source accounting and inventory software**, AGPL-3.0 licensed. **3,917 GitHub stars** — **alternative to QuickBooks, Xero, and Wave** . **Keeps all business finances in one place** and **automates accounting processes to generate intelligent financial statements** . **Self-hosted via Docker and Docker Compose** . **Headless accounting API** for double-entry system integration . 💵
-
-
+  **Modern web-based small business accounting**, AGPL-3.0 licensed. **10,100+ GitHub stars** — deployed by over 300,000 small businesses. Self-hosted modular platform covering invoicing, bill payments, bank feeds, currency conversion, and financial health reporting. 🌐
 
 - **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** [![Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)  
+  **Open enterprise management platform (ERP/CRM/HRM/PM)**, AGPL-3.0 licensed. **8,300+ GitHub stars**. Modular TypeScript/Node.js enterprise platform offering integrated bookkeeping, multi-organization invoicing, financial analytics, and payroll tracking. 🏢
 
-  **Open business management platform (ERP/CRM/HRM/ATS/PM)**, AGPL-3.0 licensed. **2,554 GitHub stars** — **comprehensive suite covering accounting, CRM, HR, and project management** . **Modular architecture for customization** . **Self-hosted or cloud deployment** . 🏢
+- **[Beancount](https://github.com/beancount/beancount)** [![Stars](https://img.shields.io/github/stars/beancount/beancount?style=social&color=white)](https://github.com/beancount/beancount/stargazers)  
+  **Double-entry accounting from plain text files**, GPL-2.0 licensed. **6,000+ GitHub stars**. Command-line and text-based double-entry ledger ecosystem written in Python, featuring extensible query syntax, Fava web UI integration, and rigorous balance verification. 📝
 
+- **[Ledger](https://github.com/ledger/ledger)** [![Stars](https://img.shields.io/github/stars/ledger/ledger?style=social&color=white)](https://github.com/ledger/ledger/stargazers)  
+  **The benchmark plain-text double-entry accounting system**, BSD-3-Clause licensed. **6,000+ GitHub stars**. High-performance C++ command-line tool that revolutionized command-line accounting with flexible ledger formatting, multicurrency support, and robust reporting. 💻
 
-
-- **[metasfresh](https://github.com/metasfresh/metasfresh)** [![Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
-
-  **Open-source ERP for scaling businesses**, GPL-2.0 licensed. **1,921 GitHub stars** — **fast, flexible, and free software** . **Java-based with PostgreSQL foundation** . **Accounting, inventory, and order management modules** . 📊
-
-
-
-- **[Accountill](https://github.com/panshak/accountill)** [![Stars](https://img.shields.io/github/stars/panshak/accountill?style=social&color=white)](https://github.com/panshak/accountill/stargazers)  
-
-  **Full-stack open-source invoicing application**, MIT licensed. **1,660 GitHub stars** — **built with MongoDB, Express, React, and Node.js (MERN)** . **Invoicing, client management, and financial tracking** . **Modern JavaScript stack for developers** . 📄
-
-
+- **[ezBookkeeping](https://github.com/mayswind/ezbookkeeping)** [![Stars](https://img.shields.io/github/stars/mayswind/ezbookkeeping?style=social&color=white)](https://github.com/mayswind/ezbookkeeping/stargazers)  
+  **Lightweight self-hosted personal & business bookkeeping application**, MIT licensed. **5,700+ GitHub stars**. Clean Go + Vue-based bookkeeping web app with multi-account support, multi-currency transactions, receipt management, and containerized Docker deployment. 📱
 
 - **[GnuCash](https://github.com/Gnucash/gnucash)** [![Stars](https://img.shields.io/github/stars/Gnucash/gnucash?style=social&color=white)](https://github.com/Gnucash/gnucash/stargazers)  
+  **Veteran free double-entry bookkeeping software**, GPL-2.0 licensed. **4,300+ GitHub stars**. The longest-running open-source double-entry system; supports bank reconciliation, checkbook registers, investment portfolio tracking, OFX/QIF bank imports, and scheduled transactions across desktop OSes. 📒
 
-  **Longest-running free accounting software**, GPL-2.0 licensed. **4,993 GitHub stars** . **Built on professional double-entry principles** but **feels as simple as a checkbook register** . **Tracks bank accounts, stocks, income, and expenses** . **Imports bank data via QIF, OFX, or HBCI** . **Runs on Linux, Windows, macOS, and BSD** . **Limitation: single-user desktop, not web-based** . 📒
+- **[Bigcapital](https://github.com/bigcapitalhq/bigcapital)** [![Stars](https://img.shields.io/github/stars/bigcapitalhq/bigcapital?style=social&color=white)](https://github.com/bigcapitalhq/bigcapital/stargazers)  
+  **Open-source financial reporting & bookkeeping platform**, AGPL-3.0 licensed. **3,900+ GitHub stars**. Direct modern open-source alternative to QuickBooks and Wave. Includes Dockerized headless double-entry APIs, real-time balance sheets, automated reconciliations, and invoicing. 💵
 
+- **[metasfresh](https://github.com/metasfresh/metasfresh)** [![Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
+  **Scalable open-source ERP for growing enterprises**, GPL-2.0 licensed. **2,400+ GitHub stars**. Enterprise Java and PostgreSQL-based architecture providing double-entry general ledger, automated procurement, invoicing, and order management. 📊
 
-
-- **[django-ledger](https://github.com/arrobalytics/django-ledger)** [![Stars](https://img.shields.io/github/stars/arrobalytics/django-ledger?style=social&color=white)](https://github.com/arrobalytics/django-ledger/stargazers)  
-
-  **Double-entry accounting system built on Django**, open-source. **1,109 GitHub stars** — **financial analysis engine for Django Web Framework** . **Solid foundation for building custom accounting applications** . **Python-native** . 🐍
-
-
+- **[Accountill](https://github.com/panshak/accountill)** [![Stars](https://img.shields.io/github/stars/panshak/accountill?style=social&color=white)](https://github.com/panshak/accountill/stargazers)  
+  **Full-stack MERN invoicing & bookkeeping app**, MIT licensed. **1,600+ GitHub stars**. Built with MongoDB, Express, React, and Node.js. Provides customer account tracking, payment statuses, PDF invoice dispatch, and income statements. 📄
 
 - **[erpsaas](https://github.com/andrewdwallo/erpsaas)** [![Stars](https://img.shields.io/github/stars/andrewdwallo/erpsaas?style=social&color=white)](https://github.com/andrewdwallo/erpsaas/stargazers)  
+  **Laravel & Filament open-source accounting suite**, MIT licensed. **1,400+ GitHub stars**. Modern multi-tenant bookkeeping engine featuring customizable chart of accounts, tax reporting, automated invoicing, and clean administrative UI. 🎨
 
-  **Laravel and Filament-powered accounting platform**, open-source. **1,049 GitHub stars** — **modern and automated solution for financial management** . **Clean UI with Laravel ecosystem** . **Best for PHP developers building accounting tools** . 🎨
-
-
+- **[django-ledger](https://github.com/arrobalytics/django-ledger)** [![Stars](https://img.shields.io/github/stars/arrobalytics/django-ledger?style=social&color=white)](https://github.com/arrobalytics/django-ledger/stargazers)  
+  **Python Django double-entry financial analysis engine**, MIT licensed. **1,300+ GitHub stars**. Pluggable Django framework powering custom financial applications with automated balance sheets, income statements, and cash-flow ledgers. 🐍
 
 - **[OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer)** [![Stars](https://img.shields.io/github/stars/TheAxelander/OpenBudgeteer?style=social&color=white)](https://github.com/TheAxelander/OpenBudgeteer/stargazers)  
+  **Bucket budgeting & expense tracking engine**, MIT licensed. **900+ GitHub stars**. Modern C# Blazor-based financial management software utilizing envelope and bucket budgeting principles. 💰
 
-  **Budgeting app based on Bucket Budgeting Principle**, open-source. **846 GitHub stars** — **C# based personal budgeting tool** . **Modern alternative to YNAB-style budgeting** . 💰
+- **[Plutus](https://github.com/mbulat/plutus)** [![Stars](https://img.shields.io/github/stars/mbulat/plutus?style=social&color=white)](https://github.com/mbulat/plutus/stargazers)  
+  **Ruby on Rails double-entry accounting engine**, MIT licensed. **700+ GitHub stars**. Pluggable Rails engine adding full double-entry accounting structures, debits, credits, and trial balance validation to web applications. 💎
 
+- **[LedgerSMB](https://github.com/ledgersmb/LedgerSMB)** [![Stars](https://img.shields.io/github/stars/ledgersmb/LedgerSMB?style=social&color=white)](https://github.com/ledgersmb/LedgerSMB/stargazers)  
+  **Open-source double-entry web accounting & ERP**, GPL-2.0 licensed. **500+ GitHub stars**. Robust web-based general ledger, inventory management, quotation, order tracking, and multi-currency accounting built on Perl and PostgreSQL. 🌐
 
+- **[Midaz](https://github.com/LerianStudio/midaz)** [![Stars](https://img.shields.io/github/stars/LerianStudio/midaz?style=social&color=white)](https://github.com/LerianStudio/midaz/stargazers)  
+  **Cloud-native multi-asset double-entry ledger platform**, Apache-2.0 licensed. **450+ GitHub stars**. High-throughput financial ledger engine for fintechs, banking rails, multi-currency transaction sequencing, and modern digital asset balances. ⚡
 
 - **[Grisbi](https://github.com/Grisbi/grisbi)** [![Stars](https://img.shields.io/github/stars/Grisbi/grisbi?style=social&color=white)](https://github.com/Grisbi/grisbi/stargazers)  
-
-  **Lightweight and easy accounting tool**, GPL-2.0 licensed. **French open-source project quietly maintained for two decades** . **Designed around simplicity** . **Manages multiple accounts, currencies, and users without complexity** . **Runs on GNU/Linux and Windows** . 🍷
-
-
-
-- **[PostBooks (xTuple)](https://github.com/xtuple/xtuple)** [![Stars](https://img.shields.io/github/stars/xtuple/xtuple?style=social&color=white)](https://github.com/xtuple/xtuple/stargazers)  
-
-  **Full ERP with accounting for growing businesses**, open-source. **Free edition of xTuple ERP suite** . **Adds CRM, inventory, purchasing, and light manufacturing on top of core accounting** . **Runs on PostgreSQL** . **Best for businesses that have outgrown simple bookkeeping** . 🏭
-
-
+  **Lightweight desktop accounting software**, GPL-2.0 licensed. **160+ GitHub stars**. Long-running European financial management software offering multi-currency accounts, direct budgetary lines, and financial reports. 🍷
 
 - **[Bizuno](https://github.com/phreesoft/bizuno)** [![Stars](https://img.shields.io/github/stars/phreesoft/bizuno?style=social&color=white)](https://github.com/phreesoft/bizuno/stargazers)  
-
-  **Self-hosted ERP/Accounting/CRM for WordPress**, GPL-2.0 licensed. **Trusted evolution of PhreeBooks since 2007** . **Accounting, sales, purchasing, inventory, and banking** . **USPS, FedEx, and UPS integration with real-time quotes and labels** . **Multi-warehouse and multi-business support** . **PHP 8.2+, MySQL 5.6+/MariaDB 10.2+** . 📦
+  **Self-hosted double-entry ERP/accounting for WordPress**, GPL-2.0 licensed. PhreeBooks successor providing double-entry general ledger, shipping carrier integrations, banking reconciliation, and multi-warehouse stock management. 📦
 
 
 
